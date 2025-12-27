@@ -88,10 +88,17 @@ Personal portfolio showcasing projects and skills.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Selman-jok&show_icons=true&theme=radical" alt="Selman GitHub Stats"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Selman-jok&show_icons=true&count_private=true&include_all_commits=true&theme=radical" 
+    alt="Selman's GitHub Stats"
+  />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Selman-jok&theme=radical" alt="GitHub Streak"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selman-jok&layout=compact&theme=radical" 
+    alt="Top Languages"
+  />
 </p>
+
 
 ---
 
