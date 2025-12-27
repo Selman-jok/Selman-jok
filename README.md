@@ -73,8 +73,8 @@ A complete mobile food delivery application with backend API integration.
 Scalable backend API for mobile and web applications.  
 🔗 https://github.com/Selman-jok/Node.js-Api  
 
-### 🛒 E-Commerce Mobile Application
-**React Native**  
+### 🛒 E-Commerce web Application
+**React**  
 Modern e-commerce application with clean UI and real-time features.  
 🔗 https://ecommerce-website-fd139.web.app  
 
