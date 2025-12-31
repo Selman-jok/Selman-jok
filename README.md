@@ -62,6 +62,10 @@ I enjoy combining **modern frontend**, **robust backend systems**, and **custom 
 ---
 
 ## 📌 Featured Projects
+### 🍔 Full-Stack Food Delivery App
+**Flutter • Node.js • Express • MongoDB**  
+A complete mobile food delivery application with backend API integration.  
+🔗 https://food-delivery-frontend-3b4b0.web.app (https://food-delivery-frontend-3b4b0.web.app/?referrer=grok.com) 
 
 ### 🍔 Full-Stack Food Delivery App
 **Flutter • Node.js • Express • MongoDB**  
