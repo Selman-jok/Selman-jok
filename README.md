@@ -85,7 +85,7 @@ Modern e-commerce application with clean UI and real-time features.
 ### 🌐 Portfolio Website
 **React**  
 Personal portfolio showcasing projects and skills.  
-🔗 https://portfolio-website-3408c.web.app  
+🔗 https://selman-portfolio.web.app/
 
 ---
 
@@ -108,7 +108,7 @@ Personal portfolio showcasing projects and skills.
 
 ## 📫 How to Reach Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-3408c.web.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://selman-portfolio.web.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selmanjoker/)
 [![Twitter](https://img.shields.io/badge/Twitter%20(X)-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/selman454911)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selmanjoker45@gmail.com)
